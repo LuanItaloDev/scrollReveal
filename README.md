@@ -1,1 +1,1 @@
-scrollReveal
+Scroll Reveal
